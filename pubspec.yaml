@@ -16,6 +16,7 @@ dependencies:
   pointycastle: ^3.0.1
   rsa_pkcs:
     git: https://github.com/amaurel/rsa_pkcs.git
+    ref: '2.0.0'
   async: ^2.2.0
 
 dev_dependencies:
